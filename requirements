@@ -1,0 +1,9 @@
+pandas
+pymysql
+sqlalchemy
+streamlit
+ploty.express
+plotly.graph_objects
+json
+os
+numpy
