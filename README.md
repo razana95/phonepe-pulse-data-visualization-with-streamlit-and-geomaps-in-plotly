@@ -8,6 +8,7 @@ THE MAIN AIM OF THIS PROJECT:
 To get realdata from phone pulse github page and processing the data to get valuable insights.
 
 PROCESS INVOLVED :
+
 *Extracting dataframe from the github data using pandas dataframe.
 *Uploading those dataframes into sql workbench using sqlalchamey and pymysql.
 *Loading pandas dataframe from the sql tables.
